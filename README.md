@@ -1,5 +1,7 @@
 # STATS Notes
 
+[Statistics For Data Science](https://www.geeksforgeeks.org/data-science/statistics-for-data-science/)
+
 [Probability Distribution](https://www.geeksforgeeks.org/maths/probability-distribution/)
 
 | Distribution       | Type       | When It Occurs                                   | Real-World Example               | Probability Equation                                                                          | Plot Shape                         |
